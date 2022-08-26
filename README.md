@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tolu55
-- 👀 I’m interested in tech, coding and development 
-- 🌱 I’m currently learning Java development 
-- 💞️ I’m looking to collaborate on based on java
+- 👀 I’m interested in Andrroid, consumer tech, coding and development 
+- 🌱 I’m currently learning Kotlin for Android development 
+- 💞️ I’m looking to collaborate on Projects based on Kotlin/Android
 - 📫 How to reach me: email - ttoluwani55@gmail.com 
 
 <!---
